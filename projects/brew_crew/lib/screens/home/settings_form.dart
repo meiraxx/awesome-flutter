@@ -36,7 +36,11 @@ class _SettingsFormState extends State<SettingsForm> {
           SizedBox(height: 20.0),
           //dropdown
           //slider
-          RaisedButton(onPressed: onPressed)
+          ElevatedButton.icon(
+            label: Text("Sugars"),
+            icon: Icon(Icons.ac_unit),
+            onPressed: () {},
+          )
         ],
       ),
     );

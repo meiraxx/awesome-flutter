@@ -1,0 +1,1 @@
+Android Studio "unable to locate adb" issue: https://stackoverflow.com/questions/62129354/android-studio-unable-to-locate-adb (set up each project structure)
