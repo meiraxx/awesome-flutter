@@ -43,7 +43,9 @@ class WorldTime {
 
 
     datetime = data['datetime'];
-    offset = data['utc_offset'].substring(1,3);
+    print(datetime);
+    offset = data['utc_offset'].substring(0,3);
+    print(offset);
 
     now = DateTime.parse(datetime);
     now = now.add(Duration(hours: int.parse(offset)));

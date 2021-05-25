@@ -25,6 +25,9 @@ class _ChooseLocationState extends State<ChooseLocation> {
     WorldTime worldTime = locations[index];
     try {
       await worldTime.getTime();
+      print(worldTime.location);
+      print(worldTime.time);
+      print(worldTime.url);
       // navigate to home screen
       Navigator.pop(context, {
         'location': worldTime.location,
