@@ -1,6 +1,5 @@
 import 'package:brew_crew/screens/authenticate/auth_mail_password.dart';
 import 'package:brew_crew/screens/authenticate/reg_mail_password.dart';
-import 'package:brew_crew/screens/authenticate/login.dart';
 import 'package:flutter/material.dart';
 
 class Authenticate extends StatefulWidget {
