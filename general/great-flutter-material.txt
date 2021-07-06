@@ -1,0 +1,16 @@
+| YOUTUBE |
+
+The Net Ninja:
+> Flutter Tutorial for Beginners: https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&ab_channel=TheNetNinja
+> Flutter+Firebase: https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&ab_channel=TheNetNinja
+> Flutter Animation Tutorial: https://www.youtube.com/watch?v=OtrWXLfGtqE&list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1&ab_channel=TheNetNinja 
+
+30 Days of Flutter:
+> Day 25 - https://www.youtube.com/watch?v=7iZAZ0CwFKI&ab_channel=KiloLoco
+
+Top Flutter Tips and Tricks:
+> https://www.youtube.com/watch?v=5vDq5DXXxss
+> https://www.youtube.com/watch?v=Kq5ZsygfWAc
+
+Flutter BLoC Pattern Tutorial:
+> https://www.youtube.com/watch?v=oxeYeMHVLII&ab_channel=ResoCoder
